@@ -1,0 +1,10 @@
+export const URL_HOME = '/';
+export const URL_BASKET = '/basket';
+export const URL_LOGIN = '/login';
+export const URL_REGISTER = '/register';
+export const URL_ADMIN_HOME = '/admin';
+export const URL_USERPROFILE = '/user';
+export const URL_SETTINGS = '/settings';
+export const URL_ALL_COMPUTER_CATALOG = '/catalog';
+export const URL_MANAGE_CART = '/cart';
+export const URL_ADD_PRODUCT = '/product/add';
